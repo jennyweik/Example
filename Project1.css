@@ -1,0 +1,50 @@
+Body{
+  font-family: American Typewriter, sans-serif;
+  color: #aaaaaa;
+  font-size: 1em;
+  text-align: center;
+  background-color: #efefef;
+}
+h1{
+  font-family: Courier New, monospace;
+  font-size: 4.5em;
+  font-weight: 300;
+  color: #a9014b;
+  text-align: center;
+}
+h2{
+  font-family: Courier New, monospace;
+  font-size:3em;
+  font-weight: 200;
+  color: #a9014b;
+  text-align: center;
+}
+h3{
+  font-family: Courier New, monospace;
+  font-size:3em;
+  font-weight: 200;
+  color: #a9014b;
+  text-align: center;
+}
+h4{
+  font-family: Courier New, monospace;
+  font-size:3em;
+  font-weight: 200;
+  color: #a9014b;
+  text-align: center;
+}
+h5{
+  font-family: Courier New, monospace;
+  font-size:2em;
+  font-weight: 100;
+  color: #a9014b;
+  text-align: center;
+}
+nav{
+  border-style: outset;
+  border-width: thin;
+  margin-left: 150px;
+  margin-right: 150px;
+  margin-top: 20px;
+  color: #aaaaaa;
+}
